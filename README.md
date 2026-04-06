@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 No installation required. Run directly in your browser (desktop & mobile supported):
 
 https://DifferentialManifold922.github.io/Crystal-structure-visualizer-via-Stlite/webpage.html
